@@ -2,4 +2,4 @@ Aiming at the challenges of weak respiratory and heartbeat signals, susceptibili
 
 
 The "code" folder contains the whole process from radar signal extraction to heartbeat signal processing, of which "main" is the main file.
-For raw data, please contact wyk0580@163.com
+This project has uploaded some of the original.bin data for readers to conduct the replication.
