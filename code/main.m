@@ -64,8 +64,8 @@ Xintiao_Mov = zeros(1, 10);
 Xintiao_Jiange_Mov = zeros(1, 10);
 
 %% Read Bin Files
-dataFolder = 'E:\1.Graduate\Breathing and Heartbeat Data 2025.01.08\0.5 Person 4';
-videoFolder = 'D:\1.Graduate\Personal Data Measurement\Paper Replication\Algorithm for Transient Interference Suppression in Sky-wave Over-the-Horizon Radar Based on Time-Frequency Sparse Priors\Video\8';
+dataFolder = '      ';  %   .bin source file
+videoFolder = '      ';  % The heart rate data obtained from the physiotherapy device test
 for iii = 1  % Data ID, you can also process multiple data at once
 
     binFilename = fullfile(dataFolder, sprintf('%d.bin', iii));
